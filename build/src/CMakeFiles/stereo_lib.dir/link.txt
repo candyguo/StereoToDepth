@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstereo_lib.a  CMakeFiles/stereo_lib.dir/stereoframe.cpp.o
+/usr/bin/ranlib libstereo_lib.a
