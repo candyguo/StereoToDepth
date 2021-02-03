@@ -1,6 +1,0 @@
-/home/ccfy/software/StereoToDepth/build/CMakeFiles/edit_cache.dir
-/home/ccfy/software/StereoToDepth/build/CMakeFiles/rebuild_cache.dir
-/home/ccfy/software/StereoToDepth/build/CMakeFiles/StereoToDepth.dir
-/home/ccfy/software/StereoToDepth/build/src/CMakeFiles/edit_cache.dir
-/home/ccfy/software/StereoToDepth/build/src/CMakeFiles/rebuild_cache.dir
-/home/ccfy/software/StereoToDepth/build/src/CMakeFiles/stereo_lib.dir
